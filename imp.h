@@ -1,0 +1,1 @@
+int sun(int,int);
